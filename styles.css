@@ -113,8 +113,9 @@ section {
   display: grid;
   grid-template-columns: 1;
   grid-template-rows: 0.5fr 0.5fr 0.1fr;
-
-   max-width: 17em;
+  
+   max-width: 18%;
+   min-width: 200px;
    padding: 1em;
    border-radius: 15px;
    box-shadow: black 7px 7px 1px;
@@ -124,7 +125,7 @@ section {
 
 .bannerImage {
     border-radius: 10px;
-
+    justify-self: center;
 }
 
 main {
@@ -139,8 +140,8 @@ main {
     padding: 2.5px 9px;
     background-color: var(--Yellow);
     font-weight: 800;
-    font-size: 0.7rem;
     border-radius: 5px;
+    font-size:  calc(0.7rem + 0.1vw);;
 }
 .publishInfo {
     font-size: 0.7rem;
@@ -148,7 +149,7 @@ main {
 }
 h1 {
     font-weight: 800;
-    font-size:  calc(1rem + 0.3vw);;
+    font-size:  calc(0.8rem + 0.2vw);;
 }
 h1:hover {
   color: var(--Yellow);
