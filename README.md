@@ -14,6 +14,7 @@ Users should be able to:
 
 ![](assets/screenshots/print.jpeg)
 ![](assets/screenshots/print%202.jpeg)
+![](assets/screenshots/print%203.jpg)
 
 
 ### Links
