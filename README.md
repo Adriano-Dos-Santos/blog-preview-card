@@ -19,10 +19,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://blog-preview-card-rho-nine.vercel.app/)
 
 
 ### What I learned
  
-I spent some time without studying, the porpuse of this simple project wa
+I spent some time without studying, the porpuse of this simple project was to practice a bit
